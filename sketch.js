@@ -1,4 +1,3 @@
-
 const Engine = Matter.Engine;
 const World = Matter.World;
 const Bodies = Matter.Bodies;
@@ -74,7 +73,7 @@ function draw() {
 
 	strokeWeight(3);
 	stroke(0);
-	fill(255);
+	fill(500);
     text('Lets Pluck the Mangoes🥭!, 285, 22);
 	
 }
