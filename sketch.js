@@ -75,7 +75,7 @@ function draw() {
 	strokeWeight(3);
 	stroke(0);
 	fill(255);
-    text('Let us Pluck the Mangoes !😋', 285, 22);
+    text('Lets Pluck the Mangoes🥭!, 285, 22);
 	
 }
 function collision(a,b){
